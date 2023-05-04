@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  height: 100vh;
+}
+body {
+  background-color: #576574;
+}
+.heading {
+  font-weight: 800;
+  font-size: 2rem;
+  padding: 5px;
+  background-color: #282c34;
+  color: #8395a7;
+}
+.middle {
+  padding-top: 50px;
+}
+.searchbar {
+  padding: 7px;
+  font-weight: 600;
+  font-size: 1rem;
+  border-radius: 10px;
+  width: 25%;
+  opacity: 0.7;
+}
+.btn {
+  margin-top: 15px;
+  height: 40px;
+  width: 90px;
+  text-align: center;
+  font-weight: 700;
+}
